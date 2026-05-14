@@ -2,10 +2,10 @@
 
 I'm a Level 2 Full Stack Developer passionate about automation/ai and the 4th Industrial Revolution
 
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Language/Skill]
-- 💬 Ask me about [Topic you know well]
-- 📫 How to reach me: [Your Email/Social Link]
+- 🔭 I’m currently working on Gen2 Level 2
+- 🌱 I’m currently learning ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+- 💬 Ask me about python, or physics
+- 📫 How to reach me: carl.wilson@andritz.com
 
 ### 🛠 Tech Stack
 Libraries, Platforms:\
