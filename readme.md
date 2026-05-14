@@ -8,5 +8,4 @@ I'm a Level 2 Full Stack Developer passionate about automation/ai and the 4th In
 - 📫 How to reach me: [Your Email/Social Link]
 
 ### 🛠 Tech Stack
-![test](https://img.shields.io/badge/github-repo-blue?logo=github)
 ![anothertest](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
