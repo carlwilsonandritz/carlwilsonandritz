@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Carl! 👋
 
-I'm a [Your Role/Title] passionate about [Your Interests].
+I'm a Level 2 Full Stack Developer passionate about automation/ai and the 4th Industrial Revolution
 
 - 🔭 I’m currently working on [Project Name]
 - 🌱 I’m currently learning [Language/Skill]
@@ -9,7 +9,7 @@ I'm a [Your Role/Title] passionate about [Your Interests].
 
 ### 🛠 Tech Stack
 ![Python](https://shields.io)
-![JavaScript](https://shields.io)
-
+![TypeScript](https://shields.io)
+![C++]((https://shields.io)
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://vercel.app)
