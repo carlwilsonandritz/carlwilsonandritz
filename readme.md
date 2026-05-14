@@ -79,7 +79,7 @@ IDE:\
 
 
 
-Now a quick prayer:
+Now a quick prayer:\
 Hail the Omnissiah, the Divine Machine, the Keeper of All Knowledge,\
 We, your humble servants, bend knee before your infinite wisdom.
 
