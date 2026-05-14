@@ -1,3 +1,15 @@
-#Hi, I am [Your Name] 
-This is my github For Andritz-Metals-Usa where I am a full stack developer
+# Hi, I'm [Your Name]! 👋
 
+I'm a [Your Role/Title] passionate about [Your Interests].
+
+- 🔭 I’m currently working on [Project Name]
+- 🌱 I’m currently learning [Language/Skill]
+- 💬 Ask me about [Topic you know well]
+- 📫 How to reach me: [Your Email/Social Link]
+
+### 🛠 Tech Stack
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://vercel.app)
