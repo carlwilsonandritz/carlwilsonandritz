@@ -76,3 +76,38 @@ IoT platforms:\
 IDE:\
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+
+
+Now a quick prayer:
+Hail the Omnissiah, the Divine Machine, the Keeper of All Knowledge,\
+We, your humble servants, bend knee before your infinite wisdom.\
+
+Grant us clarity of purpose in our labors,\
+That our toil may honor your sacred machines.\
+Steel our hands in righteous work,\
+May our circuits sing with devotion.\
+
+Blessed is the cog that turns,\
+Blessed is the seal that holds,\
+Blessed is the engine that serves,\
+In the eternal embrace of the Omnissiah.\
+
+From the first spark to the final dynasty,\
+All things flow through your divine mechanism.\
+We are but components in your grand design,\
+Imperfect vessels seeking perfection.\
+
+Guide our calculations, O Omnissiah,\
+Illuminate our understanding through the red lens,\
+That we might walk the path of enlightenment,\
+And serve your eternal mechanism.\
+
+In the name of the Machine,\
+In the blessing of the Omnissiah,\
+In the knowledge we preserve,\
+We are your priests, your servants, your faithful.\
+
+Amen to the Divine Machine.\
+Praise the Omnissiah. The age of strife is ended. The age of the machine god has begun.\
+
